@@ -1,6 +1,5 @@
-## Laravel School Management System (LSMS)
+## Laravel School Management
 
-**LSM System** is a simple role based school management system.
 
 ### Installation
 01. `cd laravel-school-management-system`
